@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>coba_cleaning</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>dirty_customers.csv</name>
+			<type>1</type>
+			<location>//C:/Users/L E N O V O/Downloads/dirty_customers.csv</location>
+		</link>
+	</linkedResources>
+</projectDescription>
